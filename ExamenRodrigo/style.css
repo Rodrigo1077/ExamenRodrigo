@@ -1,0 +1,43 @@
+body {
+background-color: coral;
+
+}
+
+h1.titulo {
+    text-align: center;
+}
+
+div.bloque1 {
+    color: darkblue;
+    font-weight: bold;
+    text-align: right;
+    position: relative;
+    right: 4cm;
+}
+
+div.bloque2 {
+    background-color: white;
+    color: darkblue;
+    font-weight: bold;
+    text-align: right;
+    position: relative;
+    right: 10cm;
+}
+
+
+div.bloque3 {
+    color: darkblue;
+    font-weight: bold;
+    position: relative;
+    left: 30%;
+}
+
+div.pie {
+    background-color: yellow;
+    text-align: center;
+}
+
+span.nombre {
+    color: red;
+    font-weight: bold;
+}
